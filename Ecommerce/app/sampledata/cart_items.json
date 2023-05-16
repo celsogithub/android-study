@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Tênis",
+      "price": 400.0,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "name": "Camiseta",
+      "price": 100.0,
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "name": "Shorts",
+      "price": 150.0,
+      "quantity": 1
+    }
+  ]
+}

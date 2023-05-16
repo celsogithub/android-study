@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E-commerce</string>
+    <string name="my_cart">Meu carrinho</string>
+    <string name="total">Total</string>
+    <string name="decrement_button">Botão decrementar</string>
+    <string name="increment_button">Botão incrementar</string>
+</resources>
